@@ -1,0 +1,2 @@
+# ogrencibilgisistemi
+Öğrenci Bilgi Sistemi
